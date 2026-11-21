@@ -1,0 +1,150 @@
+{
+  "version": "Qing-1.1-native-material",
+  "files": [
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/dlls/main.dll",
+      "bytes": 974336,
+      "sha256": "41430b87db31108e879addc71c523ec5e2d6e8ed0fdc2358d115c5e88c1f9b54"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/enabled.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/expressions.json",
+      "bytes": 897,
+      "sha256": "4ced1309729dd53b1a4731a8bc772a0b7b69cb7d2567f554ee025c55af123f37"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/game_plan.json",
+      "bytes": 130819,
+      "sha256": "4ba246da92560706ae1deded107c5e5f0bb04476625f7f6264a2591263d2dc3b"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/licenses/Bullet.txt",
+      "bytes": 1022,
+      "sha256": "885cd516a8420acb7c3e0b1a7119913b686495001ae564e3229740460e8cff59"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/licenses/GLM.txt",
+      "bytes": 2304,
+      "sha256": "43dfb4ae144ab7eaadcf3757707cb3b0e5297959d071a363366f2db1831ddc32"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/licenses/JSON.txt",
+      "bytes": 1076,
+      "sha256": "c983d69523377819db3c377b390d5644f5ec53bec9b7c4a0f1ed893bb743d045"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/licenses/Saba.txt",
+      "bytes": 1083,
+      "sha256": "11a52e2589953f2ac9b552aefb4630a0a940d0472dd2dc04a39287fe111e2a32"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/licenses/spdlog.txt",
+      "bytes": 1120,
+      "sha256": "9eb46fbd9cbdb0793e496ab744aa2e290b4e39825a2da5cba3ba6fa36bb25683"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/mc1.png",
+      "bytes": 64509,
+      "sha256": "b27ed743548b98eca92f39cb8bc2156fb598828e1a29651cafb6e66321eebf16"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/mc3.png",
+      "bytes": 33861,
+      "sha256": "988d8189318072892936e5cf90582c6edfa8dea026c611ec2dcdde84279c1535"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/model.pmx",
+      "bytes": 3127349,
+      "sha256": "e1dce0e83be8265b0b39f93c5d86d1e7b6341a0036cabe2a1645e7e0a7d9e015"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/original_names.json",
+      "bytes": 100516,
+      "sha256": "bc8b63ed32093470ecf064a396c7267cf9cac8c56be159337eaa4bb3a7d714b9"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/toon2.png",
+      "bytes": 5586,
+      "sha256": "9498ddbcb2e57a67e932deadf72d1001238a3f85f6aa58e4b8e4307ce2a47720"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/toon3.png",
+      "bytes": 5628,
+      "sha256": "dad85338aa2800ef4cfeaab41b3767318441630163ec078a64ce0f0da87ad695"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/头发.png",
+      "bytes": 794222,
+      "sha256": "ebaf95dc7ec120c87acc01d203bc1aa45f191872187403b1d285f6fc5ead146b"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/皮肤.png",
+      "bytes": 321798,
+      "sha256": "cceade7c98f5eb04eb3353a458cc8701be463b140b9ec1e9b1136bf893c32602"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/眼睛.png",
+      "bytes": 128283,
+      "sha256": "014913d756e689ffd64dab81e4d006be66807421f345c394f936bad9cd6e745f"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/眼镜1.png",
+      "bytes": 10297,
+      "sha256": "5c847126ff44ca3d2418c7484662d8e5943cd3b938ef3bebf39878f42f26c724"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/脸.png",
+      "bytes": 550796,
+      "sha256": "31af5b8b8275582fea3a7b4a60e73b79eb514d20801c35b43cc7945463ca3589"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/衣服.png",
+      "bytes": 6385089,
+      "sha256": "b8cca16637086dc3e021078e1afa82f69993b3417ee90e7ff3eeb8d5db6aebd7"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingFullMMD/表情.png",
+      "bytes": 136533,
+      "sha256": "fbd77c78e95fbb9e149e969705548017fabc3a169647385acedfdecc38605136"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingResidualGuard/enabled.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "platform/steam/ue4ss/Mods/QingResidualGuard/Scripts/main.lua",
+      "bytes": 4507,
+      "sha256": "3963985060d0eb04c41645499797bd2706c6f8a499b91fce6da0a71a1060ca9f"
+    },
+    {
+      "path": "ProjectPBZ/Content/Paks/~mods/zzz_QingMMD_v1_P.pak",
+      "bytes": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "path": "ProjectPBZ/Content/Paks/~mods/zzz_QingMMD_v1_P.ucas",
+      "bytes": 45398615,
+      "sha256": "b2cbffc69f7c3e4968b44e58de084891e2022b21a577456c430177a41501e225"
+    },
+    {
+      "path": "ProjectPBZ/Content/Paks/~mods/zzz_QingMMD_v1_P.utoc",
+      "bytes": 18443,
+      "sha256": "4117ea95b4b6a907bb08a8288467e6fbf1b5d0f6d9cc0c2f42743e9b8d64bb81"
+    },
+    {
+      "path": "安装说明.txt",
+      "bytes": 1889,
+      "sha256": "5b1d1965adcff7cdb9427400a451e2663c4bccce58491177200691925a76a417"
+    },
+    {
+      "path": "模型原始说明.txt",
+      "bytes": 3257,
+      "sha256": "a511c34390506a3ae417d4688c1a7576994ebb240a45b0016e589b0f0828fcb8"
+    }
+  ]
+}

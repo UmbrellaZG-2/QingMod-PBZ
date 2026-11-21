@@ -1,0 +1,25 @@
+晴 MMD 角色替换 v1.1 安装说明
+
+本包包含游戏资源文件和 UE4SS 模组文件，不包含 UE4SS 本体。请先确认游戏已安装与本包兼容的 UE4SS。此版本的运行模块仅针对已验证的 UE4SS 构建；已验证加载器 SHA-256：
+3843d81a8280096b0de3c750eebf15507e374c250dc551cbf07e7be7acc1e2ba
+其他加载器版本尚未验证。
+
+安装步骤
+1. 完全退出游戏。
+2. 在 Steam 库中打开游戏的“管理 → 浏览本地文件”，进入游戏根目录（通常包含 ProjectPBZ 和 platform 两个文件夹）。
+3. 如果已安装旧版瑟瑞斯 MMD 替换包，先备份并移出以下文件/文件夹，避免角色资源冲突：
+   ProjectPBZ/Content/Paks/~mods/zzz_CerisMMD_v37_P.pak
+   ProjectPBZ/Content/Paks/~mods/zzz_CerisMMD_v37_P.ucas
+   ProjectPBZ/Content/Paks/~mods/zzz_CerisMMD_v37_P.utoc
+   platform/steam/ue4ss/Mods/CerisFullMMD
+   platform/steam/ue4ss/Mods/CerisResidualGuard
+4. 将本 ZIP 的全部内容直接解压到游戏根目录，保留 ZIP 内的目录结构；遇到覆盖提示时，确认目标是本包对应的 Qing 文件。不要把整个 ZIP 外层文件夹再套进游戏目录。
+5. 启动游戏检查角色替换是否生效。诊断日志（若生成）位于 platform/steam/ue4ss/Mods/QingFullMMD/runtime.log。
+
+卸载与回退
+退出游戏后，删除本包安装的 zzz_QingMMD_v1_P.pak、.ucas、.utoc，以及 Mods/QingFullMMD 和 Mods/QingResidualGuard；再将安装前备份的文件放回原位置。不要删除或覆盖其他 UE4SS 模组及其配置。
+
+说明
+- 本包包含模型原始说明和 SHA256SUMS.txt，可用于查看模型来源说明并核对文件。
+- 离线资源与加载器接口检查已通过；实际游戏画面、动作和性能尚未完成实机验证。
+- 如果启动后没有效果，请先确认 UE4SS 已正常加载且版本匹配，再检查上述日志。
